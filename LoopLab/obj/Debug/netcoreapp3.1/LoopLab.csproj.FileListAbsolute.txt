@@ -1,0 +1,14 @@
+C:\Users\ZParr\source\repos\LoopLab\LoopLab\obj\Debug\netcoreapp3.1\LoopLab.csproj.AssemblyReference.cache
+C:\Users\ZParr\source\repos\LoopLab\LoopLab\obj\Debug\netcoreapp3.1\LoopLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZParr\source\repos\LoopLab\LoopLab\obj\Debug\netcoreapp3.1\LoopLab.AssemblyInfoInputs.cache
+C:\Users\ZParr\source\repos\LoopLab\LoopLab\obj\Debug\netcoreapp3.1\LoopLab.AssemblyInfo.cs
+C:\Users\ZParr\source\repos\LoopLab\LoopLab\obj\Debug\netcoreapp3.1\LoopLab.csproj.CoreCompileInputs.cache
+C:\Users\ZParr\source\repos\LoopLab\LoopLab\bin\Debug\netcoreapp3.1\LoopLab.exe
+C:\Users\ZParr\source\repos\LoopLab\LoopLab\bin\Debug\netcoreapp3.1\LoopLab.deps.json
+C:\Users\ZParr\source\repos\LoopLab\LoopLab\bin\Debug\netcoreapp3.1\LoopLab.runtimeconfig.json
+C:\Users\ZParr\source\repos\LoopLab\LoopLab\bin\Debug\netcoreapp3.1\LoopLab.runtimeconfig.dev.json
+C:\Users\ZParr\source\repos\LoopLab\LoopLab\bin\Debug\netcoreapp3.1\LoopLab.dll
+C:\Users\ZParr\source\repos\LoopLab\LoopLab\bin\Debug\netcoreapp3.1\LoopLab.pdb
+C:\Users\ZParr\source\repos\LoopLab\LoopLab\obj\Debug\netcoreapp3.1\LoopLab.dll
+C:\Users\ZParr\source\repos\LoopLab\LoopLab\obj\Debug\netcoreapp3.1\LoopLab.pdb
+C:\Users\ZParr\source\repos\LoopLab\LoopLab\obj\Debug\netcoreapp3.1\LoopLab.genruntimeconfig.cache
